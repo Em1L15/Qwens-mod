@@ -1,0 +1,71 @@
+{
+    "namespace": "qwens_redstone",
+    "how_to_play": {
+        "qwen_redstone_guide": {
+            "title": "Qwen's Redstone Guide",
+            "order": 100,
+            "icon": "textures/ui/qwen_logo",
+            "banner": "textures/ui/qwen_banner",
+            "categories": [
+                {
+                    "name": "beginner",
+                    "title": "Başlangıç",
+                    "order": 1,
+                    "entries": [
+                        "redstone_dust",
+                        "redstone_torch",
+                        "repeater",
+                        "comparator",
+                        "observer",
+                        "lever",
+                        "button",
+                        "pressure_plate",
+                        "simple_wiring",
+                        "simple_circuits"
+                    ]
+                },
+                {
+                    "name": "medium",
+                    "title": "Orta Seviye",
+                    "order": 2,
+                    "entries": [
+                        "and_gate",
+                        "or_gate",
+                        "not_gate",
+                        "xor_gate",
+                        "pulse",
+                        "clock",
+                        "t_flip_flop",
+                        "binary",
+                        "signal_strength",
+                        "timing",
+                        "compact_wiring"
+                    ]
+                },
+                {
+                    "name": "expert",
+                    "title": "Uzman",
+                    "order": 3,
+                    "entries": [
+                        "memory",
+                        "register",
+                        "ram",
+                        "rom",
+                        "bus",
+                        "decoder",
+                        "encoder",
+                        "alu",
+                        "cpu_logic",
+                        "screen_logic",
+                        "binary_display",
+                        "chunk_loading_effects",
+                        "update_order",
+                        "quasi_connectivity",
+                        "zero_tick_history",
+                        "technical_mechanics"
+                    ]
+                }
+            ]
+        }
+    }
+}

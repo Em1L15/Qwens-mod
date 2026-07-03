@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Qwen's Redstone Guide V2",
+        "description": "§l§cQwen'in §fKızıltaş Rehberi V2\n\n§7Başlangıçtan uzman seviyesine kadar kapsamlı kızıltaş eğitimi.",
+        "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "version": [
+            1,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            26,
+            13
+        ]
+    },
+    "modules": [
+        {
+            "description": "Qwen's Redstone Guide V2 Resource Pack",
+            "type": "resources",
+            "uuid": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ]
+}
